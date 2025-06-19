@@ -16,7 +16,7 @@ Welcome to this comprehensive **Data Warehousing and Analytics Project**, where 
 
 ## 📖 Project Overview
 
-💡 **What You'll Learn & Showcase**
+ 
 - ✅ Building a modern Data Warehouse using **SQL Server**
 - ✅ Creating robust **ETL pipelines**
 - ✅ Modeling **Fact & Dimension tables**
